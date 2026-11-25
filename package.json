@@ -1,0 +1,13 @@
+{
+  "name": "node-track",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "prepare": "git config core.hooksPath .githooks",
+    "test": "node scripts/test-task.mjs",
+    "task": "node scripts/test-task.mjs"
+  }
+}

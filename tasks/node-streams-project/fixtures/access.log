@@ -1,0 +1,9 @@
+2026-11-25T09:00:01Z GET /menu 200 35ms
+2026-11-25T09:00:02Z GET /api/orders 200 120ms
+2026-11-25T09:00:03Z POST /api/pay 500 1520ms
+this line is broken
+2026-11-25T09:00:05Z GET /menu/चाय 404 12ms
+
+2026-11-25T09:00:06Z GET /api/report 200 980ms
+2026-11-25T09:00:07Z POST /api/orders 201 120ms
+2026-11-25T09:00:08Z GET /api/orders 200 980ms

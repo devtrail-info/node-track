@@ -1,0 +1,7 @@
+{
+  "name": "order-total",
+  "version": "1.3.0",
+  "description": "Adds up the orders in a JSON file.",
+  "type": "module",
+  "private": true
+}

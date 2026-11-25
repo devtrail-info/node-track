@@ -1,0 +1,19 @@
+{
+  "name": "shop-api",
+  "version": "5.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@shop/logger": "^1.0.0",
+    "@shop/tax-rules": "^0.4.1",
+    "dotenv": "16.4.7",
+    "express": "^5.1.0",
+    "left-pad": "latest",
+    "pino": "~9.6.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "3.5.3"
+  }
+}

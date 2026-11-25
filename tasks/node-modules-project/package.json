@@ -1,0 +1,7 @@
+{
+  "name": "price-utils",
+  "version": "1.0.0",
+  "description": "Small helpers for prices in cents.",
+  "type": "module",
+  "main": "./src/index.js"
+}

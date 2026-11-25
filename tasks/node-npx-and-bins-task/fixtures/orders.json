@@ -1,0 +1,5 @@
+[
+  { "id": "A-1001", "customer": "Ana", "totalCents": 4599 },
+  { "id": "A-1002", "customer": "Ben", "totalCents": 2500 },
+  { "id": "A-1003", "customer": "Chen", "totalCents": 5246 }
+]

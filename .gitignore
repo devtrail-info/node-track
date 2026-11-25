@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.env
+*.log
+# Task fixtures are part of the tasks
+!tasks/*/fixtures/*.log
